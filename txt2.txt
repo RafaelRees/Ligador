@@ -1,0 +1,6 @@
+um space 1
+dois space 2
+result space 0
+inicio_soma add
+store result
+jmp sai_soma

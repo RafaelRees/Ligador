@@ -1,0 +1,5 @@
+push um
+push dois
+jmp inicio_soma
+sai_soma out result
+stp
